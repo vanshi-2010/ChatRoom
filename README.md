@@ -1,6 +1,7 @@
 ChatApp
 A simple chat application built with PHP and MySQL.
-Features
+
+Features :
 User authentication (registration and login)
 Real-time chat between users
 Private messaging
